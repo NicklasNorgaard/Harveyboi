@@ -27,7 +27,8 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-<!-- Her skal sidens indhold ligge -->
+<h1>Halløh</h1>
+<p>så kom der endnu en test hva</p>
 
 </body>
 </html>
